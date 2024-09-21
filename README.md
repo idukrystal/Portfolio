@@ -6,9 +6,9 @@
 Hi! I'm Christopher Idunoba, a passionate software developer with expertise in:
 
 
-Programming Languages: Java, Python, C, Kotlin, JavaScript
-Mobile App Development: Android
-Full Stack Web Development: Front-end, Back-end
+- Programming Languages: Java, Python, C, Kotlin, JavaScript
+- Mobile App Development: Android
+- Full Stack Web Development: Front-end, Back-end
 
 
 I'm excited to share my projects and collaborations in:
