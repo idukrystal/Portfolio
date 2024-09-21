@@ -50,6 +50,8 @@ nav ul li a:hover {
 header {
   height: 100vh;
   background: url('20240921_183817.jpg') no-repeat center center/cover;
+  background-size: cover;
+  background-position: top;
   color: white;
   text-align: center;
   display: flex;
